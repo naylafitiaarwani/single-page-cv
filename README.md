@@ -14,3 +14,4 @@ Buka file `index.html` menggunakan browser.
 ## Project URL
 
 https://naylafitiaarwani.github.io/single-page-cv/
+https://roadmap.sh/projects/single-page-cv
