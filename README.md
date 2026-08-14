@@ -11,6 +11,6 @@ Curriculum Vitae satu halaman yang dibuat menggunakan HTML.
 
 Buka file `index.html` menggunakan browser.
 
-## Live Demo
+## Project URL
 
-[CV Online](https://naylafitiaarwani.github.io/single-page-cv/)
+https://naylafitiaarwani.github.io/single-page-cv/
