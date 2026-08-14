@@ -13,4 +13,4 @@ Buka file `index.html` menggunakan browser.
 
 ## Live Demo
 
-URL CV akan ditambahkan setelah GitHub Pages diaktifkan.
+[CV Online](https://naylafitiaarwani.github.io/single-page-cv/)
